@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;Open+Source+Builder;AI+Research+Learner;Leetcoding+%2B+Getting+Cracked)](https://git.io/typing-svg)
-![Visitors](https://komarev.com/ghpvc/?username=s3847243&style=flat-square&color=blue)
 
 # 👋 Hey, I'm Hibbaan Nawaz
 
@@ -89,6 +88,7 @@ My **career goal**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hibbaan-nawaz)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://hibbaan.vercel.app)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/s3847243)  
+![Visitors](https://komarev.com/ghpvc/?username=s3847243&style=flat-square&color=blue)
 
 ---
 
