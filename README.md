@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;Open+Source+Builder;AI+Research+Learner;Leetcoding+%2B+Getting+Cracked)](https://git.io/typing-svg)
+![Visitors](https://komarev.com/ghpvc/?username=s3847243&style=flat-square&color=blue)
+
 # 👋 Hey, I'm Hibbaan Nawaz
 
 💻 **Full-Stack Developer | Backend Engineer | Open-Source Builder | Aspiring AI Researcher**
@@ -91,10 +94,4 @@ My **career goal**:
 
 ## 🧠 “Learn deeply. Build publicly. Get cracked.”
 
----
 
-### ✨ Optional Visuals (Add these at the very top)
-
-```markdown
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;Open+Source+Builder;AI+Research+Learner;Leetcoding+%2B+Getting+Cracked)](https://git.io/typing-svg)
-![Visitors](https://komarev.com/ghpvc/?username=s3847243&style=flat-square&color=blue)
