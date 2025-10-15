@@ -1,59 +1,76 @@
-# 👋 Hi, I'm Hibbaan Nawaz
+# 👋 Hey, I'm Azim Darmon
 
-💻 **Full-Stack Developer | Backend Engineer | Open-Source Enthusiast**
+💻 **Full-Stack Developer | Backend Engineer | Open-Source Builder | Aspiring AI Researcher**
 
-I’m passionate about **open-source development** and the art of building things that scale.  
-Right now, my main technical focus is on:
+I’m deeply passionate about **open-source development** and the pursuit of technical mastery.  
+Right now, I’m focused on sharpening every layer of the stack — from web apps to distributed systems to AI infrastructure.  
 
-- **Full-Stack Development** — Crafting rich, modern web apps with React, Next.js, TypeScript, and Tailwind.
-- **Backend Engineering** — Designing high-performance APIs and distributed systems using FastAPI, Spring Boot, Django, and Node.js.
-- **Scalable & Distributed Systems** — Building resilient, message-driven architectures powered by Celery, RabbitMQ, Redis, and AWS.
-- **AI Research & Applied Intelligence** — Gradually moving toward intelligent systems, embeddings, and LLM-powered products.
-
-My **career goal** is simple (but ambitious):  
-> ⚡ *To become the most cracked software engineer alive.*
+My **career goal**:  
+> ⚡ *To become the most cracked software engineer — ever.*
 
 ---
 
-## 🧠 What I’m Working On
+## 🚀 What I'm Building
 
-- 🚀 **[PersonalBrain.AI](https://github.com/s3847243/personal-brain-ai)** — an AI-powered personal knowledge base that transforms PDFs and text into conversational knowledge.
-- 🛰 **[DevOpsLive](https://github.com/s3847243/devops-api-watchdog)** — a real-time DevOps dashboard syncing commits, CI/CD runs, and API uptime.
-- ✉️ **[MailLens.AI](https://github.com/s3847243/MailLens)** — semantic email intelligence with contextual retrieval and LLM-based chat.
-- 💼 **[JobPilot.AI](https://github.com/s3847243/jobpilotai)** — an AI-assisted job application tracker with auto-generated cover letters.
+- 🧠 **[PersonalBrain.AI](https://github.com/s3847243/personal-brain-ai)** — AI-powered knowledge base turning your documents into a personal chat system.  
+- 🛰 **[DevOpsLive](https://github.com/s3847243/devops-api-watchdog)** — a real-time DevOps dashboard tracking commits, builds, and API uptime.  
+- ✉️ **[MailLens.AI](https://github.com/s3847243/MailLens)** — semantic email intelligence with LLM-powered contextual search.  
+- 💼 **[JobPilot.AI](https://github.com/s3847243/jobpilotai)** — full-stack job platform with AI-generated resumes and cover letters.
+
+---
+
+## ⚙️ My Current Focus
+
+- **Full-Stack Development** – React, Next.js, TypeScript, Tailwind  
+- **Backend Engineering** – FastAPI, Spring Boot, Django, Node.js  
+- **Scalable Systems** – Celery, RabbitMQ, Redis, Postgres, AWS, Terraform  
+- **AI & Vector Intelligence** – embeddings, retrieval, semantic search  
+- **Low-Level & Systems Programming** – slowly diving into **Rust** 🦀 & **C++** ⚙️  
+- **Competitive Programming & LeetCode Grinding** – building problem-solving intuition one data structure at a time.  
+
+> “Every commit, every bug, every segfault — one step closer to crackedness.”
 
 ---
 
 ## 🧩 Tech Stack
 
 **Languages:**  
-`Python` `Java` `JavaScript` `TypeScript` `SQL` `HTML/CSS`
+`Python` `Java` `JavaScript` `TypeScript` `C++` `Rust` `SQL`
 
 **Frameworks & Tools:**  
-`FastAPI` `Spring Boot` `Django` `React` `Next.js` `Express` `TailwindCSS`  
-`Celery` `Redis` `RabbitMQ` `PostgreSQL` `MongoDB` `AWS` `Terraform`
+`React` `Next.js` `FastAPI` `Spring Boot` `Django` `Express` `Celery`  
+`Redis` `RabbitMQ` `PostgreSQL` `MongoDB` `AWS` `Terraform` `TailwindCSS`
 
 **Concepts I love:**  
-- Clean architecture & system design  
-- Event-driven & distributed systems  
-- API scalability and observability  
-- Embedding models & vector search (Pinecone, pgvector)
+- Distributed & event-driven architectures  
+- Scalability, performance, and observability  
+- Compiler theory, embeddings, and AI systems design  
+- Open-source contribution and automation culture  
 
 ---
 
 ## 🧑‍💻 Experience Snapshot
 
 - **Software Engineer @ Automatic Heating Global**  
-  Built a clean-energy heat pump selection platform using TypeScript, Node.js, and React — saving over **$500K AUD** and cutting turnaround time by **47%** through automation and CI/CD:contentReference[oaicite:0]{index=0}.
+  Built a clean-energy heat pump selection platform using TypeScript, Node.js, and React — saving over **$500K AUD** and cutting turnaround time by **47%** through automation and CI/CD pipelines:contentReference[oaicite:0]{index=0}.
 
 - **Development Analyst @ Paperless Warehousing**  
-  Developed backend modules for enterprise Warehouse Management Systems in Python, improving reliability and reducing manual operations by **30%** across clients like DHL, Clorox, and Harvey Norman:contentReference[oaicite:1]{index=1}.
+  Delivered Python-based backend components for enterprise warehouse systems used by clients like DHL and Harvey Norman — improving reliability and reducing manual ops by **30%**:contentReference[oaicite:1]{index=1}.
+
+---
+
+## 🧠 Ongoing Goals
+
+- 🧩 Contribute more to open source (currently prepping for my first few big PRs).  
+- 🧠 Keep pushing into AI and systems-level engineering.  
+- 🏆 Solve 1000+ LeetCode problems (currently deep in DP hell).  
+- 🧵 Build scalable side projects that actually *ship*.  
 
 ---
 
 ## 🏆 Certifications
 
-- AWS Certified Solutions Architect – Associate
+- **AWS Certified Solutions Architect – Associate**
 
 ---
 
@@ -69,11 +86,15 @@ My **career goal** is simple (but ambitious):
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hibbaan-nawaz)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://hibbaan.vercel.app)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/s3847243)  
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/hmnTech)
 
 ---
 
-> 🧩 “Code, scale, automate, and open-source everything.”
+## 🧠 “Learn deeply. Build publicly. Get cracked.”
 
 ---
 
+### ✨ Optional Visuals (Add these at the very top)
+
+```markdown
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;Open+Source+Builder;AI+Research+Learner;Leetcoding+%2B+Getting+Cracked)](https://git.io/typing-svg)
+![Visitors](https://komarev.com/ghpvc/?username=s3847243&style=flat-square&color=blue)
