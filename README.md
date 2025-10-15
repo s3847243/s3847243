@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Azim Darmon
+# 👋 Hi, I'm Hibbaan Nawaz
 
 💻 **Full-Stack Developer | Backend Engineer | Open-Source Enthusiast**
 
