@@ -90,8 +90,6 @@ My **career goal**:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/s3847243)  
 ![Visitors](https://komarev.com/ghpvc/?username=s3847243&style=flat-square&color=blue)
 
----
 
-## 🧠 “Learn deeply. Build publicly. Get cracked.”
 
 
