@@ -54,10 +54,10 @@ My **career goal**:
 ## 🧑‍💻 Experience Snapshot
 
 - **Software Engineer @ Automatic Heating Global**  
-  Built a clean-energy heat pump selection platform using TypeScript, Node.js, and React — saving over **$500K AUD** and cutting turnaround time by **47%** through automation and CI/CD pipelines:contentReference[oaicite:0]{index=0}.
+  Built a clean-energy heat pump selection platform using TypeScript, Node.js, and React — saving over **$500K AUD** and cutting turnaround time by **47%** through automation and CI/CD pipelines.
 
 - **Development Analyst @ Paperless Warehousing**  
-  Delivered Python-based backend components for enterprise warehouse systems used by clients like DHL and Harvey Norman — improving reliability and reducing manual ops by **30%**:contentReference[oaicite:1]{index=1}.
+  Delivered Python-based backend components for enterprise warehouse systems used by clients like DHL and Harvey Norman — improving reliability and reducing manual ops by **30%**.
 
 ---
 
