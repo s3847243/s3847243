@@ -37,7 +37,7 @@ My **career goal**:
 ## 🧩 Tech Stack
 
 **Languages:**  
-`Python` `Java` `JavaScript` `TypeScript` `C++` `Rust` `SQL`
+`Python` `Java` `JavaScript` `TypeScript` `SQL`
 
 **Frameworks & Tools:**  
 `React` `Next.js` `FastAPI` `Spring Boot` `Django` `Express` `Celery`  
