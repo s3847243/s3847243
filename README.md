@@ -18,7 +18,7 @@ My **career goal**:
 - 🛰 **[DevOpsLive](https://github.com/s3847243/devops-api-watchdog)** — a real-time DevOps dashboard tracking commits, builds, and API uptime.  
 - ✉️ **[MailLens.AI](https://github.com/s3847243/MailLens)** — semantic email intelligence with LLM-powered contextual search.  
 - 💼 **[JobPilot.AI](https://github.com/s3847243/jobpilotai)** — full-stack job platform with AI-generated resumes and cover letters.
-
+- 💼 **[llm-cache (currently building) - OSS](https://github.com/s3847243/llm-cache)** — open source npm library to cache AI prompts.
 ---
 
 ## ⚙️ My Current Focus
