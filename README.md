@@ -40,7 +40,7 @@ My **career goal**:
 `Python` `Java` `JavaScript` `TypeScript` `SQL`
 
 **Frameworks & Tools:**  
-`React` `Next.js` `FastAPI` `Spring Boot` `Django` `Express` `Celery`  
+`React` `Next.js` `Node.js` `FastAPI` `Spring Boot` `Django` `Express` `Celery`  
 `Redis` `RabbitMQ` `PostgreSQL` `MongoDB` `AWS` `Terraform` `TailwindCSS`
 
 **Concepts I love:**  
