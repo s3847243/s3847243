@@ -13,6 +13,7 @@ My **career goal**:
 ---
 
 ## 🚀 Projects
+- 🧠 **[PersonalBrain.AI](https://github.com/s3847243/personal-brain-ai)** — AI-powered knowledge base turning your documents into a personal chat system.  
 - 🧠 **[Newsletter.AI](https://github.com/s3847243/newsletter-ai)** — AI-powered editor helping users write newsletters faster.  
 - ✉️ **[MailLens.AI](https://github.com/s3847243/MailLens)** — semantic email intelligence with LLM-powered contextual search.  
 - 💼 **[JobPilot.AI](https://github.com/s3847243/jobpilotai)** — full-stack job platform with AI-generated resumes and cover letters.
